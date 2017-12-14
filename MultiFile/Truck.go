@@ -13,3 +13,7 @@ const (
 	towTon weight = "Two Ton"
 	threeTon weight = "Three Ton"
 )
+
+func (t *Truck) GetDoors() int {
+	return t.numberOfDoor
+}
