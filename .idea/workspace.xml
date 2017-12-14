@@ -1,12 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f2c17ddc-2441-45e9-b82c-519df43e84a2" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/MultiFile/Utilities/VehicleHelper.go" />
-      <change beforePath="$PROJECT_DIR$/MultiFile/Car.go" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/MultiFile/Truck.go" afterPath="$PROJECT_DIR$/MultiFile/Truck.go" />
-      <change beforePath="$PROJECT_DIR$/MultiFile/main.go" afterPath="$PROJECT_DIR$/MultiFile/main.go" />
-    </list>
+    <list default="true" id="f2c17ddc-2441-45e9-b82c-519df43e84a2" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -113,21 +108,6 @@
       <pane id="ProjectPane">
         <subPane>
           <expand>
-            <path>
-              <item name="udemy" type="b2602c69:ProjectViewProjectNode" />
-              <item name="udemy" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="udemy" type="b2602c69:ProjectViewProjectNode" />
-              <item name="udemy" type="462c0819:PsiDirectoryNode" />
-              <item name="MultiFile" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="udemy" type="b2602c69:ProjectViewProjectNode" />
-              <item name="udemy" type="462c0819:PsiDirectoryNode" />
-              <item name="MultiFile" type="462c0819:PsiDirectoryNode" />
-              <item name="Utilities" type="462c0819:PsiDirectoryNode" />
-            </path>
             <path>
               <item name="udemy" type="b2602c69:ProjectViewProjectNode" />
               <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
