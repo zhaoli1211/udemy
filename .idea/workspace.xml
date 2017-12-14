@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f2c17ddc-2441-45e9-b82c-519df43e84a2" name="Default" comment="" />
+    <list default="true" id="f2c17ddc-2441-45e9-b82c-519df43e84a2" name="Default" comment="">
+      <change beforePath="" afterPath="$PROJECT_DIR$/fileIO/main.go" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/fileIO/output" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -12,42 +16,22 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="main.go" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/MultiFile/main.go">
+        <entry file="file://$PROJECT_DIR$/fileIO/main.go">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="17" column="0" lean-forward="true" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+            <state relative-caret-position="437">
+              <caret line="23" column="0" lean-forward="true" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
               <folding>
-                <element signature="e#14#74#0" expanded="true" />
+                <element signature="e#14#44#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="VehicleHelper.go" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/MultiFile/Utilities/VehicleHelper.go">
+      <file leaf-file-name="output" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/fileIO/output">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="19">
-              <caret line="1" column="5" lean-forward="false" selection-start-line="1" selection-start-column="5" selection-end-line="1" selection-end-column="5" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="CarStuff.go" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/CarStuff/CarStuff.go">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="171">
-              <caret line="9" column="1" lean-forward="true" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Truck.go" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/MultiFile/Truck.go">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="304">
-              <caret line="16" column="17" lean-forward="false" selection-start-line="16" selection-start-column="17" selection-end-line="16" selection-end-column="17" />
+            <state relative-caret-position="38">
+              <caret line="2" column="11" lean-forward="true" selection-start-line="2" selection-start-column="11" selection-end-line="2" selection-end-column="11" />
               <folding />
             </state>
           </provider>
@@ -74,6 +58,8 @@
         <option value="$PROJECT_DIR$/MultiFile/Utilities/VehicleHelper.go" />
         <option value="$PROJECT_DIR$/MultiFile/Truck.go" />
         <option value="$PROJECT_DIR$/MultiFile/main.go" />
+        <option value="$PROJECT_DIR$/fileIO/output" />
+        <option value="$PROJECT_DIR$/fileIO/main.go" />
       </list>
     </option>
   </component>
@@ -84,7 +70,7 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="1014" />
+    <option name="x" value="700" />
     <option name="y" value="23" />
     <option name="width" value="2049" />
     <option name="height" value="1249" />
@@ -108,6 +94,15 @@
       <pane id="ProjectPane">
         <subPane>
           <expand>
+            <path>
+              <item name="udemy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="udemy" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="udemy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="udemy" type="462c0819:PsiDirectoryNode" />
+              <item name="fileIO" type="462c0819:PsiDirectoryNode" />
+            </path>
             <path>
               <item name="udemy" type="b2602c69:ProjectViewProjectNode" />
               <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
@@ -151,9 +146,9 @@
       <working_directory value="$PROJECT_DIR$/" />
       <go_parameters value="-i" />
       <kind value="PACKAGE" />
-      <filePath value="$PROJECT_DIR$/MultiFile/main.go" />
-      <package value="github.com/zhaoli1211/udemy/MultiFile" />
-      <directory value="$PROJECT_DIR$/" />
+      <filePath value="$PROJECT_DIR$/fileIO/main.go" />
+      <package value="github.com/zhaoli1211/udemy/fileIO" />
+      <directory value="$PROJECT_DIR$/fileIO" />
     </configuration>
     <recent_temporary>
       <list size="1">
@@ -165,7 +160,7 @@
     <option name="remove_strategy" value="false" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1014" y="23" width="2049" height="1249" extended-state="0" />
+    <frame x="700" y="23" width="2049" height="1249" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24987799" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -203,7 +198,7 @@
         <state relative-caret-position="247">
           <caret line="15" column="0" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
           <folding>
-            <element signature="e#14#74#0" expanded="true" />
+            <element signature="e#14#74#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -232,18 +227,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/MultiFile/Utilities/VehicleHelper.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="19">
-          <caret line="1" column="5" lean-forward="false" selection-start-line="1" selection-start-column="5" selection-end-line="1" selection-end-column="5" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/CarStuff/CarStuff.go">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="171">
-          <caret line="9" column="1" lean-forward="true" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
+          <caret line="9" column="1" lean-forward="false" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
           <folding />
         </state>
       </provider>
@@ -259,9 +246,35 @@
     <entry file="file://$PROJECT_DIR$/MultiFile/main.go">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="323">
-          <caret line="17" column="0" lean-forward="true" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+          <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
           <folding>
-            <element signature="e#14#74#0" expanded="true" />
+            <element signature="e#14#74#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MultiFile/Utilities/VehicleHelper.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="1" column="5" lean-forward="false" selection-start-line="1" selection-start-column="5" selection-end-line="1" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fileIO/output">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="11" lean-forward="true" selection-start-line="2" selection-start-column="11" selection-end-line="2" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fileIO/main.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="437">
+          <caret line="23" column="0" lean-forward="true" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
+          <folding>
+            <element signature="e#14#44#0" expanded="true" />
           </folding>
         </state>
       </provider>
